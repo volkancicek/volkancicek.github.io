@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-published: false
+published: true
 ---
 
 One of the human beings who lives in Berlin.
@@ -10,6 +10,6 @@ One of the human beings who lives in Berlin.
 
 Has a master's degree on Mathematical Modeling, working as a software engineer.
 
-### Contact me
+### Contact me if necessary
 
 [volkancicek@outlook.com](mailto:volkancicek@outlook.com)
