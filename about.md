@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: false
 ---
 
-Some information about you!
-
+One of the human beings who lives in Berlin.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Has a master's degree on Mathematical Modeling, working as a software engineer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[volkancicek@outlook.com](mailto:volkancicek@outlook.com)
